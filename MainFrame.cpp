@@ -22,9 +22,9 @@ MainFrame::MainFrame(wxString title) : wxFrame(NULL, wxID_ANY, title) {
     wxPanel* content_panel = new wxPanel(main_panel, wxID_ANY);
 
     std::vector<Person*> persons;
-    Person* person1 = new Person("raph", "likes poo", bitmap);
+    Person* person1 = new Person("raph", "likes raspverry pi", bitmap);
     persons.push_back(person1);
-    Person* person2 = new Person("raph2222", "gooner", bitmap);
+    Person* person2 = new Person("raph2222", "meow", bitmap);
     persons.push_back(person2);
 
     Person* person3 = new Person("alice", "loves science", bitmap);
