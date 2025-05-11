@@ -1,0 +1,16 @@
+# ninja log v6
+1305	1484	1746981618745707225	labdash	d15b67283445b31f
+2	369	1746982149390679621	build.ninja	b1d37fcf2c6c0879
+7	1276	1746980729360099462	CMakeFiles/labdash.dir/MainFrame.cpp.o	6defe91bdcfe55f7
+4	140	1746897749973438804	CMakeFiles/labdash.dir/main.cpp.o	df2c5b9f6facb6f6
+5	1227	1746966733731874238	CMakeFiles/labdash.dir/App.cpp.o	815f52bc175f76e1
+5	1281	1746964777446853743	CMakeFiles/labdash.dir/Dialog.cpp.o	1052e1b9efe5f5d
+6	1338	1746980994352175231	CMakeFiles/labdash.dir/BLEPanel.cpp.o	45a154d15c4eed09
+7	1305	1746981617447529762	CMakeFiles/labdash.dir/Person.cpp.o	11fe7c64de3d54ec
+6	169	1746982385713134967	CMakeFiles/labdash.dir/main.cpp.o	df2c5b9f6facb6f6
+6	1553	1746982385713614939	CMakeFiles/labdash.dir/App.cpp.o	815f52bc175f76e1
+7	1565	1746982385714502049	CMakeFiles/labdash.dir/Dialog.cpp.o	1052e1b9efe5f5d
+8	1567	1746982385715019815	CMakeFiles/labdash.dir/Person.cpp.o	11fe7c64de3d54ec
+7	1592	1746982385714722639	CMakeFiles/labdash.dir/BLEPanel.cpp.o	45a154d15c4eed09
+6	1594	1746982385713818195	CMakeFiles/labdash.dir/MainFrame.cpp.o	6defe91bdcfe55f7
+1595	1773	1746982387301902252	labdash	d15b67283445b31f
